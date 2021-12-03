@@ -1,0 +1,18 @@
+dist
+cabal-dev
+*.o
+*.hi
+*.chi
+*.chs.h
+*.swp
+.virtualenv
+.hsenv
+.cabal-sandbox/
+.stack-work/
+cabal.sandbox.config
+cabal.config
+
+# latex files
+*.aux
+*.log
+*.pdf

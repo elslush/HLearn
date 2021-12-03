@@ -1,0 +1,71 @@
+flags: {}
+packages:
+- '.'
+extra-deps:
+    [ gamma-0.9.0.2
+    , continued-fractions-0.9.1.1
+    , converge-0.1.0.1
+    , MonadRandom-0.4
+    , bytes-0.15.0.1
+    , cassava-0.4.3.1
+    , hmatrix-0.16.1.5
+    , hyperloglog-0.3.4
+    , lens-4.12.3
+    , parallel-3.2.0.6
+    , semigroups-0.16.2.2
+    , vector-0.10.12.3
+    , cereal-0.4.1.1
+    , reflection-2
+    , safecopy-0.8.6
+    , approximate-0.2.2.1
+    , primitive-0.6.1.0
+    , random-1.2.1
+    , splitmix-0.1.0.4
+    , QuickCheck-2.8.1
+    , attoparsec-0.13.2.5
+    , base-orphans-0.8.6
+    , bifunctors-5.5.11
+    , bits-0.6
+    , blaze-builder-0.4.2.2
+    , bloomfilter-2.0.1.0
+    , cereal-vector-0.2.0.1
+    , comonad-4.3
+    , contravariant-1.5.5
+    , distributive-0.6.2.1
+    , erf-2.0.0.0
+    , exceptions-0.10.4
+    , free-4.12.4
+    , ghc-byteorder-4.11.0.0.10
+    , hashable-1.2.7.0
+    , hashable-extras-0.2.3
+    , kan-extensions-4.2.3
+    , log-domain-0.13.2
+    , monad-primitive-0.1
+    , mtl-2.2.2
+    , nats-1.1.2
+    , old-time-1.1.0.3
+    , pointed-4.2.0.2
+    , profunctors-5.6.2
+    , semigroupoids-5.3.6
+    , siphash-1.0.3
+    , split-0.2.3.4
+    , storable-complex-0.2.3.0
+    , tagged-0.8.6.1
+    , text-1.2.5.0
+    , tf-random-0.5
+    , transformers-compat-0.4.0.4
+    , unordered-containers-0.2.15.0
+    , void-0.7.3
+    , StateVar-1.2.2
+    , adjunctions-4.4
+    , cpu-0.1.2
+    , data-default-class-0.0.1
+    , fail-4.9.0.0
+    , old-locale-1.0.0.7
+    , prelude-extras-0.4.0.3
+    , scientific-0.3.7.0
+    , stm-2.5.0.1
+    , th-abstraction-0.4.3.0
+    , integer-logarithms-1.0.3.1
+    ]
+resolver: ghc-7.10.2
