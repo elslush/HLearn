@@ -1,6 +1,6 @@
 # Homomorphic machine learning
 
-This project is meant to analyze the HLearn framework in Haskell for comparison.
+This project is meant to analyze the HLearn framework in Haskell for comparison. Homomorphism allows for extreme parallelization. This concept is explored in this experiment.
 
 ## What is Homomorphism?
 “A map between two algebraic structures that preserves the operations of the structures”
